@@ -10,7 +10,7 @@ author_profile: true
 - Fall 2020-2021 - [Design of Algorithms](https://www.cs.bgu.ac.il/~algo211/Main)
 - Spring 2020 - [Discrete Structures and Combinatorics](https://www.cs.bgu.ac.il/~dsc202/Main)
 - Fall 2019-2020 - Introduction to Logic and Set Theory
-- -Fall 2019-2020 - [Design of Algorithms](https://www.cs.bgu.ac.il/~algo201/Main)		  
+- Fall 2019-2020 - [Design of Algorithms](https://www.cs.bgu.ac.il/~algo201/Main)		  
 - Spring 2019 - [Discrete Structures and Combinatorics](https://www.cs.bgu.ac.il/~dsc192/Main)
 - Fall 2018-2019 - Introduction to Logic and Set Theory
 - Fall 2018-2019 - [Automata and Formal Languages](https://www.cs.bgu.ac.il/~auto191/Main)
