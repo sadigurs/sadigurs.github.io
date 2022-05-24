@@ -15,5 +15,5 @@ Under the supervision of [Prof. Aryeh Kontorovich](https://www.cs.bgu.ac.il/~kar
 My Email: [sadigurs@post.bgu.ac.il](mailto:sadigurs@post.bgu.ac.il)
 
 **News**: 
-- Our paper got accepted to ICML22! 
+- Our paper got accepted to ICML22!  
   Title: [Adaptive Data Analysis with Correlated Observations](https://arxiv.org/abs/2201.08704)
