@@ -13,3 +13,5 @@ Focusing on the theory of machine learning, privacy and statistics.
 My main interests are: differential privacy, compression schemes and adaptive data analysis.  
 Under the supervision of [Prof. Aryeh Kontorovich](https://www.cs.bgu.ac.il/~karyeh/) and [Dr. Uri Stemmer](https://www.uri.co.il/).  
 My Email: [sadigurs@post.bgu.ac.il](mailto:sadigurs@post.bgu.ac.il)
+
+News:our paper gotaccepted to ICML22! Title: [Adaptive Data Analysis with Correlated Observations](https://arxiv.org/abs/2201.08704)
