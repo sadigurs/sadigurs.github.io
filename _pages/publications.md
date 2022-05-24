@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 ### Conferences
+- **Adaptive Data Analysis with Correlated Observations** [ICML 2022](https://icml.cc/)
+  [Aryeh Kontorovich](https://www.cs.bgu.ac.il/~karyeh/), Menachem Sadigurschi, [Uri Stemmer](https://www.uri.co.il/)    
+  [Arxiv](https://arxiv.org/abs/2201.08704)  
 - **On the Sample Complexity of Privately Learning Axis-Aligned Rectangles** [NeurIPS 2021](https://nips.cc/)  
   Menachem Sadigurschi, [Uri Stemmer](https://www.uri.co.il/)  
   [Arxiv](https://arxiv.org/abs/2107.11526)  | [NeurIPS page](https://neurips.cc/virtual/2021/poster/27837)
@@ -14,9 +17,6 @@ author_profile: true
   [Arxiv](https://arxiv.org/abs/1805.08254) | [Lecture](https://www.youtube.com/watch?v=ueEvY4Ws0l4)  
 
 ### Preprints
-- **Adaptive Data Analysis with Correlated Observations**  
-  [Aryeh Kontorovich](https://www.cs.bgu.ac.il/~karyeh/), Menachem Sadigurschi, [Uri Stemmer](https://www.uri.co.il/)    
-  [Arxiv](https://arxiv.org/abs/2201.08704)  
 - **Agnostic Sample Compression for Linear Regression**  
   [Steve Hanneke](http://www.stevehanneke.com/), [Aryeh Kontorovich](https://www.cs.bgu.ac.il/~karyeh/), Menachem Sadigurschi  
   [Arxiv](https://arxiv.org/abs/1810.01864)
