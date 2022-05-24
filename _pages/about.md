@@ -14,4 +14,6 @@ My main interests are: differential privacy, compression schemes and adaptive da
 Under the supervision of [Prof. Aryeh Kontorovich](https://www.cs.bgu.ac.il/~karyeh/) and [Dr. Uri Stemmer](https://www.uri.co.il/).  
 My Email: [sadigurs@post.bgu.ac.il](mailto:sadigurs@post.bgu.ac.il)
 
-**News**: Our paper gotaccepted to ICML22! Title: [Adaptive Data Analysis with Correlated Observations](https://arxiv.org/abs/2201.08704)
+**News**: 
+- Our paper got accepted to ICML22! 
+  Title: [Adaptive Data Analysis with Correlated Observations](https://arxiv.org/abs/2201.08704)
