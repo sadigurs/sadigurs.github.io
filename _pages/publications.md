@@ -21,6 +21,9 @@ author_profile: true
   [Steve Hanneke](http://www.stevehanneke.com/), [Aryeh Kontorovich](https://www.cs.bgu.ac.il/~karyeh/), Menachem Sadigurschi  
   [Arxiv](https://arxiv.org/abs/1810.01864)
 
+## Thesis - M.Sc.
+[Compression-Schemes for Real-Valued Learners](/files/0main.pdf)  
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
