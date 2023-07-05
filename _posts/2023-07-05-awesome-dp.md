@@ -8,7 +8,7 @@ tags:
   - dp 
 ---
 
-# "awesome-differential-privacy": A Curated List for Exploring Differential Privacy
+# awesome-differential-privacy: A Curated List for Exploring Differential Privacy
 
 A little side-project which is going for some years now: "awesome-differential-privacy." It's a curated list of valuable resources, tutorials, articles, and tools for the fascinating field of differential privacy.
 
