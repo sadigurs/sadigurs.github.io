@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 ### Conferences
+- **Relaxed Models for Adversarial Streaming: The Advice Model and the Bounded Interruptions Model**   
+  Menachem Sadigurschi, [Uri Stemmer](https://www.uri.co.il/), [Moshe Shechner](https://www.shechner.com/)   
+  [Arxiv](https://arxiv.org/abs/2301.09203) | *To appear at [ESA2023](https://algo-conference.org/2023/esa/)   
 - **Adaptive Data Analysis with Correlated Observations** [ICML 2022](https://icml.cc/)  
   [Aryeh Kontorovich](https://www.cs.bgu.ac.il/~karyeh/), Menachem Sadigurschi, [Uri Stemmer](https://www.uri.co.il/)    
   [Arxiv](https://arxiv.org/abs/2201.08704) | [ICML page](https://icml.cc/virtual/2022/spotlight/16034) | [Lecture](https://www.youtube.com/watch?v=10OUHwYU8cQ)  
@@ -17,9 +20,6 @@ author_profile: true
   [Arxiv](https://arxiv.org/abs/1805.08254) | [Lecture](https://www.youtube.com/watch?v=ueEvY4Ws0l4)  
 
 ### Preprints
-- **Relaxed Models for Adversarial Streaming: The Advice Model and the Bounded Interruptions Model**   
-  Menachem Sadigurschi, [Uri Stemmer](https://www.uri.co.il/), [Moshe Shechner](https://www.shechner.com/)   
-  [Arxiv](https://arxiv.org/abs/2301.09203)   
 - **Differentially-Private Bayes Consistency**  
   [Olivier Bousquet](https://research.google/people/OlivierBousquet/), [Haim Kaplan](https://www.cs.tau.ac.il/~haimk/), [Aryeh Kontorovich](https://www.cs.bgu.ac.il/~karyeh/), [Yishay Mansour](https://www.tau.ac.il/~mansour/), [Shay Moran](https://www.cs.technion.ac.il/~shaymrn/), Menachem Sadigurschi, [Uri Stemmer](https://www.uri.co.il/)    
   [Arxiv](https://arxiv.org/abs/2212.04216)  
