@@ -13,7 +13,7 @@ A little side-project which is going for some years now: "awesome-differential-p
 
 Check it out on GitHub: [menisadi/awesome-differential-privacy](https://github.com/menisadi/awesome-differential-privacy)
 
-This list aims to provide a comprehensive collection of materials for understanding and implementing differential privacy techniques. It includes research papers, blog posts, tutorials, open-source projects, and more. 
+This list aims to provide a collection of materials for understanding and implementing differential privacy techniques. It includes research papers, blog posts, tutorials, open-source projects, and more. 
 
 Contributions are welcome! If you have resources to add, simply submit a pull request on GitHub. 
 
