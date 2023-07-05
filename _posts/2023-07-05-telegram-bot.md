@@ -2,7 +2,6 @@
 title: 'telegram-bot'
 date: 2023-07-05
 permalink: /posts/2023/07/telegram-bot/
-collection: posts
 tags:
   - side-projects
   - chess 
