@@ -1,3 +1,14 @@
+---
+title: 'telegram-bot'
+date: 2023-07-05
+permalink: /projects/2023/07/telegram-bot/
+collection: projects
+tags:
+  - side-projects
+  - chess 
+  - telegram
+---
+
 # Blind-Chess Telegram bot
 In the last two years I have returned to playing chess a little. I'm probably part of a global trend. As part of the new hobby, I decided to try and practice a somewhat challenging aspect (at least for my level) - blind chess. I searched and tried several platforms but none were really comfortable so I decided there was no way out, I had to create one myself.
 Of course, I treated the whole thing as a nice and easy exercise in end-to-end programming.
