@@ -9,7 +9,6 @@ tags:
 ---
 
 # awesome-differential-privacy: A Curated List for Exploring Differential Privacy
-
 A little side-project which is going for some years now: "awesome-differential-privacy." It's a curated list of valuable resources, tutorials, articles, and tools for the fascinating field of differential privacy.
 
 Check it out on GitHub: [menisadi/awesome-differential-privacy](https://github.com/menisadi/awesome-differential-privacy)
