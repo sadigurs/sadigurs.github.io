@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Projects"
-permalink: /projects/
+title: "Posts"
+permalink: /posts/
 author_profile: true
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: 'awesome-differential-privacy'
 date: 2023-07-05
-permalink: /projects/2023/07/awesome-dp/
-collection: projects
+permalink: /posts/2023/07/awesome-dp/
+collection: posts
 tags:
   - side-projects 
   - privacy 
