@@ -12,7 +12,7 @@ tags:
 
 A little side-project which is going for some years now: "awesome-differential-privacy." It's a curated list of valuable resources, tutorials, articles, and tools for the fascinating field of differential privacy.
 
-Check it out on GitHub: https://github.com/menisadi/awesome-differential-privacy
+Check it out on GitHub: [menisadi/awesome-differential-privacy](https://github.com/menisadi/awesome-differential-privacy)
 
 This list aims to provide a comprehensive collection of materials for understanding and implementing differential privacy techniques. It includes research papers, blog posts, tutorials, open-source projects, and more. 
 
