@@ -16,7 +16,7 @@ I must say that I am quite pleased with the result.
 
 ## So what does the bot do?
 
-The bot allows you to play against the computer, at levels ranging from making random moves to the best chess engine in the world - Stockfish. The game is played in a textual way only with the help of writing the moves in the chat. Of course, but if necessary there is an option to "take a look" at the board.
+The bot allows you to play against the computer, at levels ranging from making random moves to the best chess engine in the world - Stockfish. The game is played in a textual way only by writing the moves in the chat. But if necessary there is an option to "take a peek" at the board, I won't judge you.
 
 ## Features
 
