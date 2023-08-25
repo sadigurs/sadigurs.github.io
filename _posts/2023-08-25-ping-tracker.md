@@ -1,7 +1,7 @@
 ---
 title: 'Ping Tracker'
 date: 2023-08-25
-permalink: /posts/2023/07/pings_tracker_dash/
+permalink: /posts/2023/08/pings_tracker_dash/
 tags:
   - side-projects
   - bash
