@@ -1,5 +1,5 @@
 ---
-title: 'awesome-differential-privacy'
+title: 'A Curated List: awesome-differential-privacy'
 date: 2023-07-05
 permalink: /posts/2023/07/awesome-dp/
 tags:

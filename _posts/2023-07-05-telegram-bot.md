@@ -1,5 +1,5 @@
 ---
-title: 'telegram-bot'
+title: 'Chess Telegram Bot'
 date: 2023-07-05
 permalink: /posts/2023/07/telegram-bot/
 tags:
