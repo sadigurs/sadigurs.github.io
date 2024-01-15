@@ -24,4 +24,4 @@ Now, numbers are all well and good, but turning them into something you can gras
 
 ![static-dash](/images/ping.png)
 
-I decided to extend and host the dashboard on PythonAnywhere so I could access it anytime. You can check it out [here](http://menisadi.pythonanywhere.com/). It's far from being a masterpiece, but it does the job 😊. 
+I decided to extend and host the dashboard on PythonAnywhere so I could access it anytime. You can check it out [here](/posts/2023/07/pings_tracking/). It's far from being a masterpiece, but it does the job 😊. 
