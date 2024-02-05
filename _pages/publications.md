@@ -27,6 +27,9 @@ author_profile: true
   [Steve Hanneke](http://www.stevehanneke.com/), [Aryeh Kontorovich](https://www.cs.bgu.ac.il/~karyeh/), Menachem Sadigurschi  
   [Arxiv](https://arxiv.org/abs/1810.01864)
 
+## Thesis - Ph.D.
+[A Study of Privacy and Compression in Learning Theory](/files/phd_meni.pdf)
+
 ## Thesis - M.Sc.
 [Compression-Schemes for Real-Valued Learners](/files/0main.pdf)  
 
