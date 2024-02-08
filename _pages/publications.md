@@ -20,12 +20,12 @@ author_profile: true
   [Arxiv](https://arxiv.org/abs/1805.08254) | [Lecture](https://www.youtube.com/watch?v=ueEvY4Ws0l4)  
 
 ### Preprints
+- **Agnostic Sample Compression Schemes for Regression**   
+  [Idan Attias](https://www.idanattias.com/), [Steve Hanneke](http://www.stevehanneke.com/), [Aryeh Kontorovich](https://www.cs.bgu.ac.il/~karyeh/), Menachem Sadigurschi   
+  [Arxiv](https://arxiv.org/abs/1810.01864)   
 - **Differentially-Private Bayes Consistency**  
   [Olivier Bousquet](https://research.google/people/OlivierBousquet/), [Haim Kaplan](https://www.cs.tau.ac.il/~haimk/), [Aryeh Kontorovich](https://www.cs.bgu.ac.il/~karyeh/), [Yishay Mansour](https://www.tau.ac.il/~mansour/), [Shay Moran](https://www.cs.technion.ac.il/~shaymrn/), Menachem Sadigurschi, [Uri Stemmer](https://www.uri.co.il/)    
   [Arxiv](https://arxiv.org/abs/2212.04216)  
-- **Agnostic Sample Compression for Linear Regression**  
-  [Steve Hanneke](http://www.stevehanneke.com/), [Aryeh Kontorovich](https://www.cs.bgu.ac.il/~karyeh/), Menachem Sadigurschi  
-  [Arxiv](https://arxiv.org/abs/1810.01864)
 
 ## Thesis - Ph.D.
 [A Study of Privacy and Compression in Learning Theory](/files/phd_meni.pdf)
