@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 ### Conferences
-- **Relaxed Models for Adversarial Streaming: The Advice Model and the Bounded Interruptions Model**   
+- **Relaxed Models for Adversarial Streaming: The Advice Model and the Bounded Interruptions Model** [ESA2023](https://algo-conference.org/2023/esa/)   
   Menachem Sadigurschi, [Uri Stemmer](https://www.uri.co.il/), [Moshe Shechner](https://www.shechner.com/)   
-  [Arxiv](https://arxiv.org/abs/2301.09203) | *To appear at [ESA2023](https://algo-conference.org/2023/esa/)*   
+  [Arxiv](https://arxiv.org/abs/2301.09203) 
 - **Adaptive Data Analysis with Correlated Observations** [ICML 2022](https://icml.cc/)  
   [Aryeh Kontorovich](https://www.cs.bgu.ac.il/~karyeh/), Menachem Sadigurschi, [Uri Stemmer](https://www.uri.co.il/)    
   [Arxiv](https://arxiv.org/abs/2201.08704) | [ICML page](https://icml.cc/virtual/2022/spotlight/16034) | [Lecture](https://www.youtube.com/watch?v=10OUHwYU8cQ)  
