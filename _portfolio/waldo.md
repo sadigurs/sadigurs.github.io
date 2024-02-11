@@ -1,6 +1,7 @@
 ---
 title: "Where's Waldo - RP Edition"
 excerpt: "<img src='/images/waldo.jpeg' width='400' height='400'>"
+teaser: images/waldo.jpeg
 header: images/waldo.jpeg
 collection: portfolio
 ---
