@@ -1,6 +1,6 @@
 ---
 title: 'Chess Telegram Bot'
-excerpt: "Blind-Chess Telegram bot: A Python bases chess playing bot for a challenging, memory-enhancing gameplay on Telegram<br/><img src='/images/chess_bot_1.jpeg'>"
+excerpt: "Blind-Chess Telegram bot: A Python bases chess playing bot for a challenging, memory-enhancing gameplay on Telegram<br/><img src='/images/chess_bot_1.jpeg' width="400" height="400">"
 collection: portfolio
 ---
 
